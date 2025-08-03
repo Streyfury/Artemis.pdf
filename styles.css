@@ -1,0 +1,121 @@
+.main{
+    margin-top: 20px;
+}
+.wrapper1{
+    width:1000px;
+    border-radius: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    gap:20px;
+    background: #91c3f1;
+    color:#2b2839;
+    border-bottom: 10px solid #d8cefe;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(to right, #fdf0d5, #fde4e4, #e4c1f9);
+    color:rgb(1, 24, 13);
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+}
+.pbutton{
+    width:20%;
+    margin-right:auto;
+    margin-left:auto;
+}
+button{
+    color:white;
+    width:200px;
+    text-shadow: 0px 0px 4px black;
+    border: 4px solid rgb(11, 10, 11);
+    border-radius: 30px;
+    background: rgb(229, 21, 229);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pbody{
+    color: whitesmoke;
+}
+.card{
+    color:rgb(14, 1, 9);
+    background: rgb(238, 107, 173);
+    width:200px;
+    margin-top: 20px;
+    margin-right: auto;
+    padding: 40px;
+    border: 5px solid rgb(11, 10, 11);
+    border-radius: 30px;
+}
+.fcard{
+    color:rgb(107, 9, 236);
+    width:500px;
+    margin-top: 30px;
+    margin-left: auto;
+    padding: 20px;
+    border: 5px solid rgb(11, 10, 11);
+    border-radius: 30px;
+    font-weight: bold;
+    background-image: url("cat.jpeg");
+}
+.text-box{
+  background: rgba(78, 72, 72, 0.6);
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  text-shadow: 0px 0px 4px black;
+
+}
+.avatar{
+    width:400px;
+    border-radius: 10%;
+}
+.contactcard{
+    color:rgb(126, 56, 7);
+    background-image: url("Cat\ Sup\ GIF.gif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    width:600px;
+    margin-top: 20px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 40px;
+    border: 5px solid rgb(11, 10, 11);
+    border-radius: 30px;
+}
+h1{
+    color:white;
+    text-shadow: -5px 5px 2px black;
+    text-align: center;
+}
+.edcard{
+    color:rgb(107, 9, 236);
+    width:500px;
+    margin-top: 30px;
+    margin-left: auto;
+    padding: 20px;
+    border: 5px solid rgb(11, 10, 11);
+    border-radius: 30px;
+    font-weight: bold;
+    background-image: url("Cat\ Working\ GIF.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+.wrapper2{
+    width:1300px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+
